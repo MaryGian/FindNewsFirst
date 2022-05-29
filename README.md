@@ -1,5 +1,5 @@
 # FindNewsFirst
-This is a console aplication written in java. This aplication gives users the articles of their choice either from only top-headlines articles or
+This is a console aplication written in java. This aplication gives users the article information of their choice either from only top-headlines articles or
 from a variaty of articles, blogs etc.
 It is a maven project so all the necessary libraries are automatically installed when you build your project.
 The only thing you need to do is download the files from FindNewsFirstLibrary repository and put it in your local maven repository. 
